@@ -1,10 +1,8 @@
-# app_movil_1
-
-# 📱 Honorata Mobile
+# 📱 Honorata Movil
 
 ## 📋 Descripción del Proyecto
 
-**Honorata Mobile** es una aplicación móvil desarrollada para el personal de servicio del restaurante Honorata. La plataforma permite a los meseros gestionar pedidos de manera rápida y eficiente, consultando en tiempo real los productos registrados desde Honorata Web y manteniendo comunicación directa con el módulo de cocina.
+**Honorata Movil** es una aplicación móvil desarrollada para el personal de servicio del restaurante Honorata. La plataforma permite a los meseros gestionar pedidos de manera rápida y eficiente, consultando en tiempo real los productos registrados desde Honorata Web y manteniendo comunicación directa con el módulo de cocina.
 
 La aplicación se integra con el ecosistema Honorata, permitiendo que la información de productos, pedidos y estados de preparación se sincronice automáticamente mediante servicios en la nube.
 
